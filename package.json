@@ -1,0 +1,33 @@
+{
+  "name": "disbot",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorpicussa/disbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Victor Picussa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorpicussa/disbot/issues"
+  },
+  "homepage": "https://github.com/victorpicussa/disbot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "glob": "^7.1.6",
+    "moment": "^2.29.1",
+    "twitch": "^4.2.6",
+    "ytdl-core": "^3.3.0",
+    "ytsr": "^0.1.21"
+  }
+}

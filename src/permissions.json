@@ -1,0 +1,102 @@
+{
+    "626926177587691541": {
+        "roles": {
+            "description": "Os cargos definem as permissões dos seres do Panteão.",
+            "tags": {
+                "Imortais": {        
+                    "color": "fffa00",
+                    "text": "Dos mais poderosos surgiu o Panteão, e como anfitriões, eles regem e vigiam-o.",
+                    "footer": "Este cargo não pode ser atribuido, exceto se um dos Imortais tornar-se mortal."
+                },
+                "Heróis": {        
+                    "color": "2b80ff",
+                    "text": "São os que eternamente entretem e ajudam os seres que chegam ao Panteão.",
+                    "footer": "Este cargo só pode ser atribuido à novos seres que darão suporte eterno."
+                },
+                "Lendas": {
+                    "color": "070707",
+                    "text": "Marcados na história do Panteão, as Lendas administram as salas e os seres que aqui caminham.",
+                    "footer": "Esse cargo só pode ser atribuido a seres que são Deuses e desesam ajudar os Imortais."
+                },
+                "Deuses": {
+                    "color": "ff0000",
+                    "text": "Com grandes poderes, os Deuses possuem regalias que classes menores não possuem, como compartilhar imagens, mencionar cargos e ter acesso a salas especiais.",
+                    "footer": "Esse cargo só pode ser atribuido a seres que são Semi-Deuses e possuem um bom tempo de atividade no Panteão ou possuem uma inscrição em cada canal da Twitch dos Imortais."
+                },
+                "Semi-Deuses": {
+                    "color": "69b14c",
+                    "text": "São as divindades com poderes básicos no Panteão, os Semi-Deues podem compartilhar links e acessar salas especiais.",
+                    "footer": "Esse cargo só pode ser atribuido a seres que são Humanos e possuem um tempo de atividade no Panteão."
+                },
+                "Humanos": {
+                    "color": "fffffc",
+                    "text": "São considerados a relé do Panteão, possuem as permissões básicas que um ser perto de uma divindade pode possuir.",
+                    "footer": "Esse cargo é atribuido automaticamente aos seres que chegam no Panteão."
+                }
+            }   
+        },
+        "titles": {
+            "description": "Os títulos são cargos cosméticos que ressaltam qualidades dos seres.",
+            "tags": {
+                "Assistente dos Heróis": {
+                    "color": "44cdff",
+                    "text": "Para os seres que ajudam no desenvolvimento dos bots.",
+                    "footer": "Esse título pode ser requisitado na sala de pedidos e será analisado."
+                },
+                "A Grande Lenda": {
+                    "color": "c97c42",
+                    "text": "Para os seres que com sucesso trazem novos humanos e divulgam o Panteão.",
+                    "footer": "Esse título pode ser requisitado na sala de pedidos e será analisado."
+                },
+                "Aspirante à Imortal": {
+                    "color": "e4d551",
+                    "text": "Para os seres que estão sempre jogando com um dos Imortais.",
+                    "footer": "Esse título pode ser requisitado na sala de pedidos e será analisado."
+                },
+                "Discípulo dos Imortais": {
+                    "color": "ffb422",
+                    "text": "Para os seres que têm inscrição nos três canais da Twitch dos Imortais.",
+                    "footer": "Esse título pode ser requisitado na sala de pedidos e será analisado."
+                },
+                "Dignificador": {
+                    "color": "c263ff",
+                    "text": "Para os seres que impulsionam o Panteão com nitro.",
+                    "footer": "Esse título pode ser requisitado na sala de pedidos e será analisado."
+                },
+                "Arquiteto": {
+                    "color": "c9e3ff",
+                    "text": "Para os seres que ajudam na criação e organização das categorias e canais.",
+                    "footer": "Esse título pode ser requisitado na sala de pedidos e será analisado."
+                },
+                "Filósofo": {
+                    "color": "fff3a8",
+                    "text": "Para os seres que tem grande participação nos chats de texto.",
+                    "footer": "Esse título pode ser requisitado na sala de pedidos e será analisado."
+                },
+                "Artista": {
+                    "color": "39ff89",
+                    "text": "Para os seres que criam artes, ícones, emojis, memes, etc do Panteão e/ou dos canais da Twitch dos Imortais.",
+                    "footer": "Esse título pode ser requisitado na sala de pedidos e será analisado."
+                },
+                "Bardo": {
+                    "color": "8a59ff",
+                    "text": "Para os seres que dominam e sempre utilizam os bots de música.",
+                    "footer": "Esse título pode ser requisitado na sala de pedidos e será analisado."
+                }
+            }
+        },
+        "gifts": {
+            "description": "As dádivas são cargos cosméticos que podem ser obtidos pelos seres para mostrar quais deuses o representam.",
+            "tags": [
+                "Dádiva de Zeus, Pai dos Deuses",
+                "Dádiva de Odin, Pai de Todos",
+                "Dádiva de Raijin, dos Raios e Trovões",
+                "Dádiva de Osiris, da Vida Pós-Morte",
+                "Dádiva de Sun Wukong, Macaco Rei",
+                "Dádiva de Ah Puch, da Decadência",
+                "Dádiva de Chernobog, das Trevas"
+            ],
+            "footer": "Uma dádiva gratuita pode ser requisitada na sala de pedidos."
+        }
+    }
+}

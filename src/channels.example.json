@@ -1,0 +1,10 @@
+{
+    "server_id": {
+        "name": "server",
+        "rules_channel": "channel_id",
+        "log_channel": "channel_id",
+        "welcome_channel": "channel_id",
+        "welcome_image": "url_ti_image",
+        "welcome_footer": "welcome_footer_text"
+    }
+}
